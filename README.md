@@ -137,14 +137,14 @@ To initiate integration, DataSync securely connects to platforms and prepares da
   - Fetched data is cached for efficient processing.
 &nbsp;
 - **Demo: GIF showing OAuth popup and data loading from HubSpot, Notion, and Airtable.**
-      
-![Hubspot](https://github.com/user-attachments/assets/9ff6396a-efaf-4476-8a88-a9e75cf604ec)  
+  
+![Hubspot|200x200](https://github.com/user-attachments/assets/686cd821-6ad3-4f0b-b0f8-f086c3624e38)
 ### <div align="center"> HubSpot </div>  
 
-![Airtable](https://github.com/user-attachments/assets/e46ab911-9c99-4af6-9a54-6f6dd1b3b8fa)
+![Airtable|200x200](https://github.com/user-attachments/assets/881d7fac-f138-45ac-bb12-0b6b5c1d83a8)
 ### <div align="center"> Airtable </div>  
 
-![Notion](https://github.com/user-attachments/assets/578c0f61-f696-4061-a254-cd3f1891e6b0) 
+![Notion|200x200](https://github.com/user-attachments/assets/7a4b193a-437d-4645-b01d-e31f4da6cfa9)
 ### <div align="center"> Notion </div>  
 
 
@@ -166,10 +166,10 @@ Once data is ready, users can transfer it to target platforms with a single requ
 
 **Demo: GIF showing data transfer to Notion blocks and Airtable records.**
 
-![Transfer_Data _Airtable](https://github.com/user-attachments/assets/4fd42fe2-9e5e-425b-9fe2-8cd036304ffd) 
+![Transfer Data - Airtable|200x200](https://github.com/user-attachments/assets/e6c5ad02-e372-448c-9140-a1b3d79dfe6e)
 ### <div align="center"> HubSpot --> Airtable </div>  
 
-![Transfer_Data_Notion](https://github.com/user-attachments/assets/e809692a-ed5f-4708-acca-3f8307769542)
+
 ### <div align="center"> HubSpot --> Notion </div>  
 ---
 &nbsp;
