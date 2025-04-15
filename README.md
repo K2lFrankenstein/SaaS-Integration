@@ -169,7 +169,7 @@ Once data is ready, users can transfer it to target platforms with a single requ
 ![Transfer Data - Airtable|200x200](https://github.com/user-attachments/assets/e6c5ad02-e372-448c-9140-a1b3d79dfe6e)
 ### <div align="center"> HubSpot --> Airtable </div>  
 
-
+![Transfer Data - Notion|200x200](https://github.com/user-attachments/assets/410883d9-e984-4f33-86c7-3d7bdc5df4ef)
 ### <div align="center"> HubSpot --> Notion </div>  
 ---
 &nbsp;
